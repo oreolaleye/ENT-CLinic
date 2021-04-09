@@ -72,6 +72,7 @@ nav li a {
     background-image: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(2, 0, 36, 0.3253676470588235) 51%, rgba(0, 0, 0, 1) 100%), url("img/ent1.jpeg");
     background-repeat: no-repeat;
     background-size: cover;
+    background-position: center;
     background-attachment: fixed;
     height: 800px;
     margin-top: 20px;
